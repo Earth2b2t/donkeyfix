@@ -1,0 +1,4 @@
+name: donkeyfix
+version: 1.0.0
+main: net.toshimichi.donkeyfix.Main
+depend: [ "ProtocolLib" ]
